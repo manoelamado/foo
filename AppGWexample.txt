@@ -1,4 +1,4 @@
-# Get a list of all subscriptions in your account. UPDATED 2x
+# Get a list of all subscriptions in your account. UPDATED 3x
 Get-AzSubscription
 
 az account list --output table
